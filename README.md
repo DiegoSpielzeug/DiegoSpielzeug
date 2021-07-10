@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hi there 👋, my name is Diego Rodriugez
+#### Web and Mobile Development
+Enthusiastic web and mobile developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, React Native, Htlm5, Css, Javascript.
+
+### Skills
+
+* :electron: React
+* :iphone: React Native
+* 💻 HTML,CSS, SCSS, JS
+* 🔥  Firebase
+
+### 🔭My Proyects
+- [Flight App](https://www.youtube.com/watch?v=6xTZxdL9hM4)
+- [Restaurant App](https://youtu.be/ZC0ZocIu5SE)
+- [Heros Web App](https://youtu.be/w_-ubO1mXtQ)
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DiegoSpielzeug)  
+
+
+
 
 <!--
 **DiegoSpielzeug/DiegoSpielzeug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
