@@ -14,6 +14,8 @@ Enthusiastic web and mobile developer eager to contribute to team success throug
 - [Restaurant App](https://youtu.be/ZC0ZocIu5SE)
 - [Heros Web App](https://youtu.be/w_-ubO1mXtQ)
 - [Denuncias App](https://youtu.be/a1nfATInwqA)
+- [Weather Web App](https://youtu.be/g5MaI3GobZU)
+- [Quiz Web App](https://youtu.be/FZbvGL2KJoY)
 
 
 
