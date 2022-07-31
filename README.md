@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Diego Rodriugez
+### Hi there 👋, my name is Diego Rodriguez
 #### Web and Mobile Development
 Enthusiastic web and mobile developer eager to contribute to team success through hard work, attention to detail and excelent organizational skills. Clear understanding of React.js, React Native, Htlm5, Css, Javascript.
 
